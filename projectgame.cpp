@@ -2,7 +2,7 @@
 //kelompok 17
 //NAMA ANGGOTA : 
 //
-//IMAM MUZAKKI (2217051)
+//IMAM MUZAKKI (2217051056)
 //MUHAMMAD ARYA DZAKY ARENANTO (2217051007)
 
 #include <ncurses/ncurses.h>
